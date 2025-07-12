@@ -8,13 +8,11 @@ We compare two architectures:
 
 ---
 
-## 🔗 Open in Google Colab
+## Open in Google Colab
 
 Click below to open and run the notebook in Colab:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samarth-9900/Digit-Classification-MNIST/blob/main/dnn_cnn_models.ipynb)
-
-> Replace `YOUR_USERNAME`, `YOUR_REPO_NAME`, and `your_notebook.ipynb` with your actual GitHub path.
 
 ---
 
@@ -24,7 +22,7 @@ Click below to open and run the notebook in Colab:
 |---------------------------|-------------------------------------------------------|
 | `dnn_cnn_models.ipynb`    | Main notebook with model code and training pipeline   |
 | `README.md`               | Project documentation                                 |
-| `results`                 | Training plots, confusion matrices,classification report  |
+| `results.pdf`             | Training plots, confusion matrices,classification report  |
 
 ---
 
